@@ -1,4 +1,4 @@
 # 👋 Hi, I’m Vanessa
-- ♥️ I'm interested in front-end development
+- ♥️ I'm interested in web development
 - 👩🏻‍💻 I like working with HTML5, CSS3, JavaScript, Bootstrap and Sass
-- ⚛️ I'm currently learning React
+- 🧠️ I'm currently learning Node.js
